@@ -2,7 +2,7 @@ import React from "react"
 
 function TodoItem(props) {
     return (
-        <div calssName="todo-item">
+        <div>
             <input 
                 type="checkbox" 
                 checked={props.item.completed} 

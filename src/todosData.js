@@ -16,7 +16,7 @@ const todosData = [
     },
     {
         id: 4,
-        text: "Dance CLass",
+        text: "Dance Class",
         completed: false
     },
     {
